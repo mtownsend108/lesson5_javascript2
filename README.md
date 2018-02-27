@@ -4,20 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 27, 2018
 
 ### Student Name:  
-(First and Last Name)
+M. Raven Townsend, Web Development Student, FSU, Spring 2018
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment took a deeper dive into the fundamentals of JavaScript. It provided hands on experience with learning the basics of the language that included loops, objects, and arrays.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+Published GibHub link: https://mtownsend108.github.io/lesson5_javascript2/
+
+Workspace Lesson5 Gibhub link: https://github.com/mtownsend108/lesson5_javascript2
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Conditional statements are used to make decisions.
+2. Functions are utilized to create reusable code.
+3. JavaScript truly makes a webpage come alive! It is essential for user interaction. 
 
